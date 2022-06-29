@@ -24,5 +24,5 @@ void searchNumber (int [] mass)
         }
         Console.Write($"{mass[mass.Length - 1]}");
         Console.Write("]");
-        Console.WriteLine($"\nСумма нечетных чисел в массиве = {sum}");
+        Console.WriteLine($"\nСумма нечетных элементов массива = {sum}");
 }
